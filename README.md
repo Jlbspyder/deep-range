@@ -22,8 +22,8 @@ Users should be able to:
 ### Screenshot
 A screenshot of the page is included in the asset folder of the project.
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/notifications-page-solution-using-html-css-flexbox-and-javascript-8d4u4UOnDw)
-- Live Site URL: [Add live site URL here](https://bespoke-caramel-559445.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/notifications-page-solution-using-html-css-flexbox-and-javascript-8d4u4UOnDw]
+- Live Site URL: [https://bespoke-caramel-559445.netlify.app/]
 
 ### Continued development
 
