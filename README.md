@@ -22,8 +22,8 @@ Users should be able to:
 ### Screenshot
 A screenshot of the page is included in the asset folder of the project.
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/notifications-page-solution-using-html-css-flexbox-and-javascript-8d4u4UOnDw)
+- Live Site URL: [Add live site URL here](https://bespoke-caramel-559445.netlify.app/)
 
 ### Continued development
 
@@ -31,8 +31,8 @@ I want to focus more on writing javascript codes, writing functions and doing mo
 
 ### Useful resources
 
-- [W3Schools](https://www.w3schools.com) - This helped me for understanding css flexbox and grid. I really liked this pattern and will use it going forward.
-- [Traversy Media](Traversy Media on YouTube) - This is an amazing channel which helped me understand almost everything I know about html, css and javascript. I'd recommend it to anyone learning to become a fullstack developer.
+- [W3Schools](https://www.w3schools.com) - This helped me for understanding css flexbox and grid. his website is very explanatory and good for learning web development.
+- [Traversy Media](Traversy Media on YouTube) - This is an amazing channel which helped me understand almost everything I know about html, css and javascript. I recommend it to anyone learning to become a fullstack developer.
 
 ## Author
 
@@ -42,5 +42,5 @@ I want to focus more on writing javascript codes, writing functions and doing mo
 
 ## Acknowledgments
 
-I'd like to give a special shout out to Bosun Arifayan Github - [@Stizzle123] for his tremendious help with completing this project! 
+I'd like to give a special shout out to Bosun Arifayan github.com/stizzle123 for his tremendious help with completing this project! 
 
