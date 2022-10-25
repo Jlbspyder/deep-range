@@ -1,0 +1,138 @@
+@import url('https://fonts.google.com/specimen/Plus+Jakarta+Sans');
+* {
+  box-sizing: border-box;  
+}
+
+body {
+    font-family: Plus Jakarta Sans;
+    font-size: 16px;
+    background-color: hsl(0, 0%, 100%);
+    color: #000;
+}
+#note {
+    width: 30px;
+    height: 30px;
+    background: blue;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.flex {
+    max-width: 1440px;
+    width: 650px;
+    padding: 10px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.flex-body {
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: hsl(0, 0%, 100%);
+    width: 650px;
+    padding: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+a:hover {
+    color: blue;
+}
+
+h5 {
+    color: gray;
+}
+img {
+    margin-right: 5px;
+}
+
+.nav {
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 10px;
+}
+.sort {
+    margin-right: 25px;
+    opacity: 0.5;
+}
+
+.active {
+    background-color: hsl(210, 60%, 98%);
+    border-radius: 10px;
+    display: flex;
+    margin: 5px;
+    width: 600px;
+}
+
+.active.visited {
+    background-color: cyan;
+}
+
+.grid {
+    background-color: hsl(0, 0%, 100%);
+    display: grid;
+    grid-template-columns: 100px 400px 100px;
+}
+
+ #post  {
+    background-color: hsl(210, 60%, 98%);
+    color: gray;
+    border: 1px grey;
+    border-radius: 5px;
+    padding: 5px;
+ }
+ #post a {
+    color: gray;
+ }
+
+.inactive {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    display: flex;
+    margin: 5px;
+    width: 600px;
+}
+.inactive span {
+    display: none;
+}
+
+.attribution {
+     font-size: 11px; text-align: center; 
+ }
+ .attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+@media (max-width: 375px) {
+    .flex-body {
+    text-align: left;
+    width: 80%;
+    }
+    .flex {
+        display: flex;
+        justify-content: space-around;
+        text-align: left;
+        width: 80%;
+    }
+    .active {
+        width: 80%;
+        display: flex;
+    }
+    .inactive {
+        width: 80%;
+        display: flex;
+    }
+    .grid {
+        width: 80%;
+        grid-template-columns: 100px 130px 20px;
+    }
+    
+}
